@@ -293,3 +293,7 @@ footer {
 .footer-icons {
     fill: gray;
 }
+
+html {
+    scroll-behavior: smooth;
+}
